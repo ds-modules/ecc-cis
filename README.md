@@ -15,5 +15,4 @@ Repository for CIS Modules for El Camino College
 
 ## CIS 13 Notebooks (Prof Le)
 
-### Launch Intro to Jupyter and Python on DataHub:
-[![Repo on DataHub](https://img.shields.io/badge/Launch-El%20Camino%20College%20Datahub-blue.svg)](https://elcamino.cloudbank.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2Fecc-cis&branch=main&urlpath=tree%2Fecc-cis%2Fcis13%2FIntro_to_Jupyter.ipynb)
+### Launch Intro to Jupyter and Python on DataHub: [![Repo on DataHub](https://img.shields.io/badge/Launch-El%20Camino%20College%20Datahub-blue.svg)](https://elcamino.cloudbank.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2Fecc-cis&branch=main&urlpath=tree%2Fecc-cis%2Fcis13%2FIntro_to_Jupyter.ipynb)
